@@ -81,16 +81,9 @@ export const protectedPages = [
 
 export default function AppRouter() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
         <Route path="/" exact>
-          <Redirect
-            to={{
-              pathname: "/map",
-            }}
-          />
-        </Route>
-        <Route path="/quanlyoga" exact>
           <Redirect
             to={{
               pathname: "/map",
