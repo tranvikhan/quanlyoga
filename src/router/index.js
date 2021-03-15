@@ -7,11 +7,18 @@ import {
   FaInfoCircle,
 } from "react-icons/fa";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Redirect,
 } from "react-router-dom";
+/* import {
+  BrowserRouter   as Router,
+  Switch,
+  Route,
+  Redirect,
+} from "react-router-dom"; */
+
 import ProtectRoute from "./protectRoute";
 import AuthRoute from "./authRoute";
 
@@ -81,7 +88,7 @@ export const protectedPages = [
 
 export default function AppRouter() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router /* basename={process.env.PUBLIC_URL} */>
       <Switch>
         <Route path="/" exact>
           <Redirect
