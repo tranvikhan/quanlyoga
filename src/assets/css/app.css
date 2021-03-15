@@ -1,0 +1,78 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+body {
+  background-color: #edebe9;
+}
+a {
+  cursor: pointer;
+}
+a:hover {
+  color: #f39c12;
+}
+
+/* #2f3640  #f39c12*/
+
+.modal-backdrop{
+  z-index: 900;
+} 
+.modal{
+  z-index: 999;
+}
+.custom-firebaseUi .firebaseui-card-content,
+.firebaseui-card-footer {
+  padding: 0 0;
+}
+.custom-firebaseUi .firebaseui-container {
+  max-width: none;
+}
+.custom-firebaseUi .firebaseui-idp-button {
+  max-width: none;
+  padding-left: 28%;
+  border-radius: 5px;
+  box-shadow: none;
+  border: solid 1px rgb(0 0 0 / 20%);
+}
+.custom-firebaseUi .firebaseui-idp-button:hover {
+  box-shadow: 0 3px 3px 0 rgb(0 0 0 / 14%), 0 1px 2px -2px rgb(0 0 0 / 20%),
+    0 1px 5px 0 rgb(0 0 0 / 12%);
+}
+.preloader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: hsla(0, 0%, 100%, 0.75);
+  z-index: 9999;
+}
+.status {
+  height: 80px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -40px 0 0 -40px;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #f39c12;
+  background-color: #ffffff;
+}
+.nav-link {
+  color: #292827;
+  padding: 8px 14px;
+}
+.search-bar {
+  padding: 0 15vw;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .search-bar {
+    padding: 0 0;
+  }
+}
+.makerItem:hover {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
