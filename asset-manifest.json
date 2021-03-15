@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/quanlyoga/static/css/main.543e86b5.chunk.css",
-    "main.js": "/quanlyoga/static/js/main.dbc1f74f.chunk.js",
-    "main.js.map": "/quanlyoga/static/js/main.dbc1f74f.chunk.js.map",
+    "main.js": "/quanlyoga/static/js/main.d72970e2.chunk.js",
+    "main.js.map": "/quanlyoga/static/js/main.d72970e2.chunk.js.map",
     "runtime-main.js": "/quanlyoga/static/js/runtime-main.5af4a00b.js",
     "runtime-main.js.map": "/quanlyoga/static/js/runtime-main.5af4a00b.js.map",
     "static/css/2.5db0046d.chunk.css": "/quanlyoga/static/css/2.5db0046d.chunk.css",
-    "static/js/2.7b8ad4a5.chunk.js": "/quanlyoga/static/js/2.7b8ad4a5.chunk.js",
-    "static/js/2.7b8ad4a5.chunk.js.map": "/quanlyoga/static/js/2.7b8ad4a5.chunk.js.map",
+    "static/js/2.f3904da7.chunk.js": "/quanlyoga/static/js/2.f3904da7.chunk.js",
+    "static/js/2.f3904da7.chunk.js.map": "/quanlyoga/static/js/2.f3904da7.chunk.js.map",
     "index.html": "/quanlyoga/index.html",
     "static/css/2.5db0046d.chunk.css.map": "/quanlyoga/static/css/2.5db0046d.chunk.css.map",
     "static/css/main.543e86b5.chunk.css.map": "/quanlyoga/static/css/main.543e86b5.chunk.css.map",
-    "static/js/2.7b8ad4a5.chunk.js.LICENSE.txt": "/quanlyoga/static/js/2.7b8ad4a5.chunk.js.LICENSE.txt",
+    "static/js/2.f3904da7.chunk.js.LICENSE.txt": "/quanlyoga/static/js/2.f3904da7.chunk.js.LICENSE.txt",
     "static/media/helloImage.d2500e46.jpg": "/quanlyoga/static/media/helloImage.d2500e46.jpg",
     "static/media/helloImage2.7bd90c11.jpg": "/quanlyoga/static/media/helloImage2.7bd90c11.jpg",
     "static/media/helloImage3.69283db9.jpg": "/quanlyoga/static/media/helloImage3.69283db9.jpg"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.5af4a00b.js",
     "static/css/2.5db0046d.chunk.css",
-    "static/js/2.7b8ad4a5.chunk.js",
+    "static/js/2.f3904da7.chunk.js",
     "static/css/main.543e86b5.chunk.css",
-    "static/js/main.dbc1f74f.chunk.js"
+    "static/js/main.d72970e2.chunk.js"
   ]
 }
