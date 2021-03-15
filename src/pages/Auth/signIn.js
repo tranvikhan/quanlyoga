@@ -61,7 +61,7 @@ export default function SignIn() {
     // Popup signin flow rather than redirect flow.
     signInFlow: "popup",
     // Redirect to /signedIn after sign in is successful. Alternatively you can provide a callbacks.signInSuccess function.
-    signInSuccessUrl: process.env.PUBLIC_URL ? process.env.PUBLIC_URL : "/",
+    signInSuccessUrl: "/",
     // We will display Google and Facebook as auth providers.
     signInOptions: [
       firebase.auth.GoogleAuthProvider.PROVIDER_ID,
