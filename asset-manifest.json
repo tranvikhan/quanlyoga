@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/quanlyoga/static/css/main.543e86b5.chunk.css",
-    "main.js": "/quanlyoga/static/js/main.b2a65568.chunk.js",
-    "main.js.map": "/quanlyoga/static/js/main.b2a65568.chunk.js.map",
+    "main.js": "/quanlyoga/static/js/main.30ccae2e.chunk.js",
+    "main.js.map": "/quanlyoga/static/js/main.30ccae2e.chunk.js.map",
     "runtime-main.js": "/quanlyoga/static/js/runtime-main.5af4a00b.js",
     "runtime-main.js.map": "/quanlyoga/static/js/runtime-main.5af4a00b.js.map",
     "static/css/2.5db0046d.chunk.css": "/quanlyoga/static/css/2.5db0046d.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.5db0046d.chunk.css",
     "static/js/2.7b8ad4a5.chunk.js",
     "static/css/main.543e86b5.chunk.css",
-    "static/js/main.b2a65568.chunk.js"
+    "static/js/main.30ccae2e.chunk.js"
   ]
 }
