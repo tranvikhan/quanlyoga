@@ -90,6 +90,13 @@ export default function AppRouter() {
             }}
           />
         </Route>
+        <Route path="/quanlyoga" exact>
+          <Redirect
+            to={{
+              pathname: "/map",
+            }}
+          />
+        </Route>
         {authPages.map((route, index) => {
           return (
             <Route key={index} path={route.path}>
